@@ -1,5 +1,5 @@
 # ContactHub
-
+![ContactHub Logo](https://github.com/TetianaBovanenko/ContactHub/blob/main/ContactHub%20Logo.jpg?raw=true)
 ## Overview
 A versatile Python-based contact management application designed to store and manage personal contacts. This application is ideal for personal or small business use, providing features such as:
 
